@@ -1,0 +1,15 @@
+mlflow
+prefect
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+nltk
+streamlit
+swifter
+spacy
+xgboost
+lightgbm
+tenacity
