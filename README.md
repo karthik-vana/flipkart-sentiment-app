@@ -2,6 +2,8 @@
 
 A production-grade End-to-End MLOps project for Sentiment Analysis on Flipkart Product Reviews. This project demonstrates industry-standard practices including Experiment Tracking, Model Registry, Automated Pipelines, and Deployment.
 
+## Click here for live Demo[Live Demo](https://flipkart-sentiment-app-100.streamlit.app/) 
+
 ## 🚀 Project Overview
 
 This project builds a machine learning system to classify product reviews as **Positive** or **Negative**.
